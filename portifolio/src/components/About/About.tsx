@@ -10,7 +10,7 @@ const About = () => {
         <div className="about-page__infos-wrapper">
           <img className="about-page__image" src={AboutIcon} alt="" />
           <div className="about-page__about-me">
-            <h2 className="about-page__subtitle">Olá, me chamo Adriano!</h2>
+            <h2 className="about-page__subtitle">Olá, me chamo Adriano de Castro!</h2>
             <p className="about-page__text">
               Faço Bacharel em TI na UNIVESP (Universidade Virtual do Estado de São Paulo)
               e sou Técnico em Desenvolvimento de Sistemas e Administração. Nesse período
