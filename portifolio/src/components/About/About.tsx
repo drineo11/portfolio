@@ -15,7 +15,7 @@ const About = () => {
               Faço Bacharel em TI na UNIVESP (Universidade Virtual do Estado de São Paulo)
               e sou Técnico em Desenvolvimento de Sistemas e Administração. Nesse período
               de faculdade venho me dedicando no aprendizado para o desenvolvimento em Front End usando React, 
-              no Back End usando Python e no Mobile com React Native.
+              no Back End usando Python e NodeJS e no Mobile com React Native.
               Busco adquirir cada vez mais experiência como desenvolvedor
               FullStack e me desenvolver como pessoa.
             </p>
