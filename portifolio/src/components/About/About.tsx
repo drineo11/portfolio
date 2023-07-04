@@ -14,9 +14,10 @@ const About = () => {
             <p className="about-page__text">
               Faço Bacharel em TI na UNIVESP (Universidade Virtual do Estado de São Paulo)
               e sou Técnico em Desenvolvimento de Sistemas e Administração. Nesse período
-              de faculdade venho me dedicando a área de desenvolvimento Web.
+              de faculdade venho me dedicando no aprendizado para o desenvolvimento em Front End usando React, 
+              no Back End usando Python e no Mobile com React Native.
               Busco adquirir cada vez mais experiência como desenvolvedor
-              Front-End e me desenvolver como pessoa.
+              FullStack e me desenvolver como pessoa.
             </p>
           </div>
         </div>

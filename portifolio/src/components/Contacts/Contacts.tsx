@@ -12,7 +12,7 @@ const Contacts = () => {
     subject: "StaticForms - Contact Form",
     message: "",
     replyTo: "@",
-    accessKey: "8447ee65-62f3-4ff7-a1e1-244c19287306",
+    accessKey: "2f6a2742-03f5-4e35-8673-8a3e36cbd0cd",
   });
 
   const [response, setResponse] = useState({

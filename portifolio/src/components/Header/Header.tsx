@@ -95,7 +95,7 @@ const Header = () => {
                   Skills
                 </a>
               </li>
-              <li className="header-page__links-mobile">
+              {/* <li className="header-page__links-mobile">
                 <a
                   className="header-page__link-mobile"
                   href="#projects-page-id"
@@ -103,7 +103,7 @@ const Header = () => {
                 >
                   Projetos
                 </a>
-              </li>
+              </li> */}
               <li className="header-page__links-mobile">
                 <a
                   className="header-page__link-mobile"
