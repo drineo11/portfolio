@@ -80,7 +80,7 @@ const Contacts = () => {
                 onChange={handleChange}
                 className="contacts-page__input"
                 type="text"
-                placeholder="seu nome"
+                placeholder="Seu nome"
                 name="name"
                 required
               />

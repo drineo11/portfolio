@@ -20,7 +20,7 @@
     display: flex;
     flex-direction: column;
     align-items:center;
-    gap: 10px;
+    gap: 5px;
   }
 
   &__subtitle {
@@ -60,7 +60,7 @@
 
   &__input {
     width: 100%;
-    max-width: 600px;
+    max-width: 800px;
     height: 60px;
     border-radius: 50px;
     border: none;
@@ -104,7 +104,7 @@
     border: none;
     outline: none;
     width: 100%;
-    max-width: 600px;
+    max-width: 800px;
     height: 60px;
     background: $green-500;
     font-family: $font-family-inter;
@@ -151,6 +151,7 @@
 
 @media screen and (max-width: 920px) {
   .contacts-page {
+    
     &__wrapper-content {
       // -webkit-flex-direction: column-reverse;
       flex-direction: column-reverse;
