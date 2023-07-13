@@ -1,4 +1,4 @@
-import React, { useRef, useState, useEffect } from "react";
+import React, { useState } from "react";
 import "./sass/Contacts.scss";
 
 import ContactsIcon from "../../assets/images/contactsIcon.png";
